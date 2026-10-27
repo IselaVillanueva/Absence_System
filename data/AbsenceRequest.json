@@ -1,0 +1,20 @@
+[
+  {
+    "request_id":001
+    "employee_id": 1001,
+    "absence_type": "IS101",
+    "status": "approved"
+  },
+  {
+    "request_id":001
+    "employee_id": 1001,
+    "absence_type": "DB101",
+    "status": "approved"
+  },
+  {
+    "request_id":002
+    "employee_id": 1002,
+    "absence_type": "IS101",
+    "status": "rejected"
+  }
+]
