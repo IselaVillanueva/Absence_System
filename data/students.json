@@ -1,10 +1,10 @@
 [
   {
-    "student_id": 1001,
+    "employee_id": 1001,
     "name": "Alice"
   },
   {
-    "student_id": 1002,
+    "employee_id": 1002,
     "name": "Noah"
   }
 ]
