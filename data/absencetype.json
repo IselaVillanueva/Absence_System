@@ -1,0 +1,14 @@
+[
+  {
+    "absence_type": "IS101",
+    "title": "Paid Time Off"
+  },
+  {
+    "absence_type": "DB101",
+    "title": "Sick Leave"
+  },
+    {
+    "absence_type": "DB101",
+    "title": "Maternity Leave"
+  }
+]
